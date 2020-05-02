@@ -1,0 +1,20 @@
+Data/
+Backups/
+Basic Simulation/
+Before Error/
+ConvM/
+ConvN/
+DATA_velA.jld
+DATA_velB.jld
+Figures/
+Handwritten Notes.pdf
+HystAVG_Below.pdf
+Hysteresis_diff_kMF_k1_N100.pdf
+Literature/
+PX rapport.txt
+PXA100/
+PX_Crystal/
+PX_Crystal_MF20.pdf
+PXscan/
+Stop*/
+hyst*/
